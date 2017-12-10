@@ -1,0 +1,459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nam",
+				"nameChangedHanlder"
+			],
+			[
+				"Album",
+				"AlbumDetailComponent\talias"
+			],
+			[
+				"_",
+				"_albumService\tproperty"
+			],
+			[
+				"Albu",
+				"Album\talias"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"1",
+				"1C1C1F"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"image\tproperty"
+			],
+			[
+				"set",
+				"setAttribute\tmethod"
+			],
+			[
+				"files",
+				"filesToUpload\tproperty"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"get",
+				"getToken\tmethod"
+			],
+			[
+				"loca",
+				"localStorage\tvar"
+			],
+			[
+				"err",
+				"errorMessage\tlocal var"
+			],
+			[
+				"u",
+				"_userService\tproperty"
+			],
+			[
+				"User",
+				"UserService\talias"
+			],
+			[
+				"ar",
+				"artistId"
+			],
+			[
+				"user",
+				"user_routes"
+			],
+			[
+				"body",
+				"bodyParser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import React, { Component } from 'react';\n\nclass App extends Component {\n\t\n\n  render() {\n    return (\n      <div>\n      \t\n    \n      </div>\n    );\n  }\n}\n\nexport default App;\n",
+			"file": "src/App.js",
+			"file_size": 167,
+			"file_write_time": 131572358750157841,
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"typescript",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"type scri",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"css ",
+				"Set Syntax: CSS"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"intalla pac",
+				"Install Package Control"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/burger-app",
+		"/C/wamp64/www/burger-app/src"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/burger-app/src/index.js",
+		"/C/wamp64/www/burger-app/src/Person/Person.js",
+		"/C/wamp64/www/burger-app/src/index.css",
+		"/C/wamp64/www/burger-app/public/index.html",
+		"/C/wamp64/www/burger-app/config/webpack.config.dev.js",
+		"/C/wamp64/www/burger-app/config/webpack.config.prod.js",
+		"/C/wamp64/www/burger-app/src/App.js",
+		"/C/wamp64/www/burger-app/src/logo.svg",
+		"/C/wamp64/www/curso-mean2/client/src/app/services/artist.service.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/services/album.service.ts",
+		"/C/wamp64/www/curso-mean2/api/controllers/artist.js",
+		"/C/wamp64/www/curso-mean2/api/controllers/album.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/album-detail.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.module.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.routing.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/artist-detail.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/artist-detail.html",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/album-detail.html",
+		"/C/wamp64/www/curso-mean2/client/src/assets/css/styles.css",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/artist-edit.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/artist-list.html",
+		"/C/wamp64/www/curso-mean2/api/routes/album.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/home.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/album-edit.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.component.html",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.component.css",
+		"/C/wamp64/www/curso-mean2/client/src/app/app.component.spec.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/artist-list.component.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/models/album.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/models/artist.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/artist-add.html",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/artist-add.component.ts",
+		"/C/wamp64/www/curso-mean2/api/package.json",
+		"/C/wamp64/www/curso-mean2/api/models/artist.js",
+		"/C/wamp64/www/curso-mean2/api/routes/artist.js",
+		"/C/wamp64/www/curso-mean2/api/models/album.js",
+		"/C/wamp64/www/curso-mean2/api/app.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/services/upload.service.ts",
+		"/C/wamp64/www/curso-mean2/client/src/index.html",
+		"/C/wamp64/www/curso-mean2/api/index.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/services/global.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/album-add.html",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/home.html",
+		"/C/wamp64/www/curso-mean2/client/src/app/components/user-edit.component.ts",
+		"/C/wamp64/www/curso-mean2/api/controllers/user.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/views/user-edit.html",
+		"/C/wamp64/www/curso-mean2/api/routes/user.js",
+		"/C/wamp64/www/curso-mean2/client/src/app/models/user.ts",
+		"/C/wamp64/www/curso-mean2/client/src/app/services/user.service.ts",
+		"/C/wamp64/www/curso-mean2/client/src/main.ts",
+		"/C/wamp64/www/curso-mean2/client/src/polyfills.ts",
+		"/C/wamp64/www/curso-mean2/client/src/styles.css",
+		"/C/wamp64/www/curso-mean2/client/src/test.ts",
+		"/C/wamp64/www/curso-mean2/client/src/tsconfig.json",
+		"/C/wamp64/www/curso-mean2/api/node_modules/body-parser/lib/types/urlencoded.js",
+		"/C/wamp64/www/curso-mean2/client/package-lock.json",
+		"/C/wamp64/www/curso-mean2/client/package.json",
+		"/C/wamp64/www/curso-mean2/api/node_modules/bcrypt-nodejs/bCrypt.js",
+		"/C/wamp64/www/curso-mean2/api/package-lock.json",
+		"/C/wamp64/www/curso-mean2/api/middlewares/authenticated.js",
+		"/C/wamp64/www/curso-mean2/api/models/user.js",
+		"/C/Users/Gaston/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/wamp64/www/curso-mean2/client/src/app/models/song.ts",
+		"/C/wamp64/www/curso-mean2/client/src/assets/bootstrap/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.js",
+		"/C/wamp64/www/curso-mean2/client/src/assets/bootstrap/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap-theme.css",
+		"/C/Users/sonico/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/sonico/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-js-completions.sublime-settings",
+		"/C/wamp64/www/curso-mean2/app.js",
+		"/C/wamp64/www/curso-mean2/controllers/song.js",
+		"/C/wamp64/www/curso-mean2/controllers/album.js",
+		"/C/wamp64/www/curso-mean2/routes/album.js",
+		"/C/wamp64/www/curso-mean2/routes/song.js",
+		"/C/wamp64/www/curso-mean2/models/song.js",
+		"/C/wamp64/www/curso-mean2/controllers/user.js",
+		"/C/wamp64/www/curso-mean2/controllers/artist.js",
+		"/C/wamp64/www/curso-mean2/routes/artist.js",
+		"/C/wamp64/www/curso-mean2/models/album.js",
+		"/C/wamp64/www/curso-mean2/routes/user.js",
+		"/C/wamp64/www/curso-mean2/uploads/albums/AP0rTHGi2nUaaJugVuA36d-x",
+		"/C/wamp64/www/curso-mean2/models/artist.js",
+		"/C/wamp64/www/curso-mean2/services/jwt.js",
+		"/C/wamp64/www/curso-mean2/middlewares/authenticated.js",
+		"/C/wamp64/www/curso-mean2/node_modules/async/during.js",
+		"/C/wamp64/www/curso-mean2/index.js",
+		"/C/wamp64/www/curso-mean2/models/user.js",
+		"/C/wamp64/www/curso-mean2/uploads/users/2xbbFGKdbuvLxdz9XNE2ejoz.jpg",
+		"/C/wamp64/www/curso-mean2/package.json",
+		"/C/wamp64/www/curso-mean2/curso-mean2.sublime-project",
+		"/C/wamp64/www/curso-mean2/package-lock.json",
+		"/C/wamp64/curso-mean2/proyecto-curso-mean2.sublime-project",
+		"/C/wamp64/curso-mean2/package.json"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css-loader",
+			"test",
+			"_id",
+			"title",
+			"getimagefile",
+			"getalbum",
+			"getimagefile",
+			"identity_name",
+			"user",
+			"user_register",
+			"onSubmitRegister",
+			"oblig",
+			"setitem",
+			"localstorage",
+			"locals",
+			"local",
+			"encode",
+			"jwt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/wamp64/www/curso-mean2/curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
