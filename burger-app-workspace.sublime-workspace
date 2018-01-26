@@ -98,8 +98,8 @@
 		{
 			"contents": "import React, { Component } from 'react';\n\nclass App extends Component {\n\t\n\n  render() {\n    return (\n      <div>\n      \t\n    \n      </div>\n    );\n  }\n}\n\nexport default App;\n",
 			"file": "src/App.js",
-			"file_size": 341,
-			"file_write_time": 131576422779220000,
+			"file_size": 580,
+			"file_write_time": 131581645969500202,
 			"settings":
 			{
 				"buffer_size": 174,
